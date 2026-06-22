@@ -4,7 +4,7 @@ Scan a laptop's NFC tag with a phone → a webpage opens showing the **room the 
 
 ## What's in this folder
 - **index.html** — the lookup page (open it on a phone after a scan).
-- **Cart_Inventory.xlsx** — your spreadsheet. The page reads this as the live source of truth.
+- **Cart_Inventory_FLAT.xlsx** — your spreadsheet. The page reads this as the live source of truth.
 - **tag-urls.csv** — every asset tag and the exact URL to write to its NFC tag.
 - **README.md** — this file.
 
